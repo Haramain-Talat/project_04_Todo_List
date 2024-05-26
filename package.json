@@ -1,0 +1,21 @@
+{
+  "name": "talat_naz_todo_list",
+  "version": "1.0.0",
+  "description": "I designed a personalized Todo_List app.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Talat Naz.",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.12.12"
+  },
+  "dependencies": {
+    "@types/inquirer": "^9.0.7",
+    "inquirer": "^9.2.22"
+  }
+}
